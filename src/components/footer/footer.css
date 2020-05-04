@@ -1,0 +1,13 @@
+.footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .5em;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.footer-section p{
+    padding: .5em;
+    margin: 0;
+}

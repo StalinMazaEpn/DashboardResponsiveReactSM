@@ -1,68 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dashboard Responsive con React Hooks #
 
-## Available Scripts
+Ejercicio para aplicar ReactJS a un pequeño ejemplo usando React Hooks y aplicando variables con CSS para la interactividad entre el modo oscuro y claro.
 
-In the project directory, you can run:
+El ejercicio abarca lo siguiente:
+- Diseño Responsive
+- Maquetacion HTML
+- React Hooks
 
-### `yarn start`
+## Cómo usarlo?
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clonar el proyecto o descargarlo
+- En el directorio donde este el proyecto clonado o descomprimido abrir una terminal y ejecutar el comando "npm install"
+- Hecho esto ejecutar el comando "npm run start o yarn start" para iniciar el proyecto en modo desarrollo
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Imágenes
 
-### `yarn test`
+**Modo Escritorio**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Imagen en Modo Escritorio](./pc1024Screen.png)
 
-### `yarn build`
+**Modo Móvil (Iphone)**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Imagen en Modo Iphone](./iphone5Screen.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Modo Móvil (Android)**
 
-### `yarn eject`
+![Imagen en Modo Android](./googleNexusScreen.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Autor & Créditos
+Este ejemplo fue explicado por el Profesor Leonidas Esteban en un curso básico de 3 horas en su canal de youtube.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Algunos cambios fueron aplicados por mi, pero la mayoría de los créditos son para el autor del video con el cual se basa este ejercicio
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
